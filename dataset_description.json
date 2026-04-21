@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "Whole-cell Patch-seq recordings from neurons of the mouse visual cortex from the Allen Institute for Brain Science, released in June 2020. The majority of cells in this dataset are GABAergic interneurons, but there are also a small number of glutamatergic neurons from layer 2/3 of the mouse visual cortex.",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Gouwens, Nathan"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
